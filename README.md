@@ -1,13 +1,37 @@
 # 👋 Hi, I'm Zain Razzaq
 
-Full Stack Developer with over 3 years of experience in building modern web applications.
+Full Stack Developer and AI Enthusiast with 3+ years of experience in modern web development and AI solutions.
 
-## 🚀 About Me
+---
 
-- 🌐 I specialize in designing and developing scalable web solutions.
-- 🛠️ Skilled in **React**, **Next.js**, **Node.js**, **Express**, **Tailwind CSS**, **Material UI**, **MySQL**, and **MongoDB**.
-- 🚢 Deploying applications with **Vercel** and other cloud platforms.
-- 💡 Passionate about clean code, performance optimization, and delivering great user experiences.
+## 🤖 What I Do
+
+- ✨ **AI & LLM Integration**
+  - ChatGPT and GPT-4 APIs
+  - Prompt engineering for custom workflows
+  - AI-powered chatbots and tools
+
+- 🌐 **Full Stack Development**
+  - React, Next.js, Tailwind CSS
+  - Node.js, Express, REST APIs
+  - MySQL, MongoDB
+
+- 🚢 **Deployment**
+  - Vercel, Docker, Cloud platforms
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript  
+**Frontend:** React, Next.js  
+**Backend:** Node.js, Express  
+**AI:** OpenAI APIs,Gemini, LangChain, Camel AI  
+**Databases:** MySQL, MongoDB  
+**Styling:** Tailwind CSS, Material UI
+
+
+---
 
 ## 📫 Let's Connect
 
